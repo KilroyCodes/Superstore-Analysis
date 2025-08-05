@@ -18,4 +18,5 @@ Our target audience for this analysis will be key stakeholders wanting to see KP
 ## Files in project:
 - **Sample - Superstore.csv**: Source data
 - **superstore-data-analysis.ipynb**: Python code
+- **Superstore Analysis.pdf**: Mock presentation deck summarising findings
   
