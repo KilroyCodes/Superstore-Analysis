@@ -1,4 +1,4 @@
-# Superstore_Data_Analysis
+# Superstore Data Analysis
 ## Overview
 For this data analysis, I've taken an imaginary dataset from Kaggle.
 
